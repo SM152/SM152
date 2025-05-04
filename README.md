@@ -1,4 +1,4 @@
-### Hi, I'm [Your Name] 👋
+### Hi, I'm Sanidhya Mallya 
 - 🎓 BSc in Physics, Math & Electronics
 - 🔭 Interested in observational astronomy & spectroscopic instrumentation
 - 🛠️ Currently working on stellar data analysis
