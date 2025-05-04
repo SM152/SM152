@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm [Your Name] 👋
+- 🎓 BSc in Physics, Math & Electronics
+- 🔭 Interested in observational astronomy & spectroscopic instrumentation
+- 🛠️ Currently working on stellar data analysis
+- 📖 Learning: Python | Git | Spectroscopy | Astrophysics
 
-<!--
-**SM152/SM152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧪 Projects
+- [Arduino Spectrometer](#)
+- [Exoplanet Transit Simulation](#)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools & Languages
+`Python` `Arduino IDE`  `Linux` `ESP32` `Matplotlib` `Notion`
